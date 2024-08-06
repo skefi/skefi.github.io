@@ -130,13 +130,9 @@
   </url><url>
     <loc>/about/header/</loc>
   </url><url>
-    <loc>/about/sidebar/</loc>
-  </url><url>
     <loc>/about/main/</loc>
   </url><url>
     <loc>/about/</loc>
-  </url><url>
-    <loc>/contributors/</loc>
   </url><url>
     <loc>/research/ews/</loc>
   </url><url>
@@ -145,6 +141,8 @@
     <loc>/license/</loc>
   </url><url>
     <loc>/categories/package/</loc>
+  </url><url>
+    <loc>/publications/</loc>
   </url><url>
     <loc>/research/</loc>
   </url><url>

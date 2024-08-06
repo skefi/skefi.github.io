@@ -13,20 +13,7 @@ categories:
 - R
 - package
 # layout options: single or single-sidebar
-layout: single-sidebar
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
-- icon: newspaper
-  icon_pack: far
-  name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
+layout: single
 ---
 
 In harsh environments, individuals can modify their habitat and make it more hospitable for themselves and/or others by relieving the environmental stress. Although evidence on the importance of such positive interactions is accumulating in a wide range of ecosystems, they are largely ignored by current models in ecology. Including positive interactions into ecological theory may be key to understanding population and community processes in physically stressful habitats. Studies already showed that positive interactions in the form of habitat amelioration can have profound effects on the spatial distribution of organisms, on their abundance, and on ecosystem resilience. I am interested in the role of positive interactions for the functioning of ecological communities.
