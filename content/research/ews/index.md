@@ -1,7 +1,7 @@
 ---
 title: "Identifying early warning signals of catastrophic shifts in ecosystems"
 subtitle: " "
-excerpt: "Are there early warning signs that an ecosystem is loosing resilience?"
+excerpt: " "
 date: 
 author: " "
 draft: false
@@ -13,6 +13,11 @@ categories:
   - package
 # layout options: single or single-sidebar
 layout: single
+links:
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/spatial-ews/spatialwarnings
 ---
 
 With the current global change, it is becoming increasingly important for us to be able to anticipate shifts in ecological communities. Shifts are often responsible for large, long-lasting changes and can result in dramatic ecological and economic consequences. Are there early warning signs that an ecosystem is loosing resilience?
@@ -27,15 +32,14 @@ Learn more about the [European project CASCADE](https://vimeo.com/channels/dryla
 
 ### spatialwarnings
 
-R-package on [spatial early warning signals](https://github.com/spatial-ews/spatialwarnings) (by A. Génin)
+R-package on [spatial early warning signals](https://github.com/spatial-ews/spatialwarnings) (lead by A. Génin)
 
 ### Some publications:
 
 Kéfi et al. 2024. PNAS
 Génin, A. et al. 2020. Biological Conservation. 
-Génin, A.et al. 2018. Methods in Ecology and Evolution. 
-Kéfi, S. and P. Couteron. 2018. 
-Ecological indicators. 
+Génin, A.et al. 2018. Methods in Ecology and Evolution.
+Kéfi, S. and P. Couteron. 2018. Ecological indicators. 
 Berdugo, M. et al.2017. Nature in Ecology and Evolution. 
 Schneider, F.D. and S. Kéfi. 2016. Theoretical Ecology. 
 Kéfi, S. et al. 2014. PLoS ONE. 

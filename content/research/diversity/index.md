@@ -33,7 +33,7 @@ Play with the [Chilean web multiplex clusters](http://pbil.univ-lyon1.fr/softwar
 
 ### Running dynamics of multi-interaction ecological networks
 
-Check out the Julia package [EcologicalNetworksDynamics.jl](https://beckslab.github.io/EcologicalNetworksDynamics.jl/man/quickstart/)
+Check out the Julia package [EcologicalNetworksDynamics.jl](https://beckslab.github.io/EcologicalNetworksDynamics.jl/man/quickstart/) (lead by I. Lajaaiti and I. Bonnici)
 
 ### ECONET
 
