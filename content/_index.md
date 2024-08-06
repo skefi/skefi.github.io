@@ -3,7 +3,7 @@ title: "Sonia Kéfi"
 subtitle: "Ecosystem dynamics and resilience"
 description: " "
 images:
-  - img/revoir.jpg
+  - img/sonia_kefi.png
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
