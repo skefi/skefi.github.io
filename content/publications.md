@@ -100,134 +100,144 @@ A. Vasques, M. Baudena, V.R. Vallejo, `S Kéfi`, S. Bautista, V.M. Santana, M.J.
 [Post-fire regeneration traits of understorey shrub species modulate successional responses to high severity fire in Mediterranean pine forests.](https://link.springer.com/article/10.1007/s10021-022-00750-z) 
 Ecosystems. 26(1): 146-160
 
-E Forgoston <em>et al.</em> 
+E. Forgoston <em>et al.</em> 
 [Stability and Fluctuations in Complex Ecological Systems.](https://arxiv.org/abs/2306.07447)  
 arXiv:2306.07447
 
 
 ### 2022
 
-Kéfi, S., C. Saade, E. L. Berlow, J. S. Cabral, E. A. Fronhofer. 2022. Scaling up our understanding of tipping points. Philosophical transactions of the Royal Society B. 377: 1857.https://doi.org/10.1098/rstb.2021.0386
+`S. Kéfi`, C. Saade, E. L. Berlow, J. S. Cabral, E. A. Fronhofer. 2022. 
+[Scaling up our understanding of tipping points.](https://doi.org/10.1098/rstb.2021.0386)   Philosophical transactions of the Royal Society B. 377: 1857 
 
-Dakos, V., andKéfi S. 2022. Ecological Resilience: What to Measure and How.Environmental Research Letters17: 043003.doi.org/10.1088/1748-9326/ac5767
+V. Dakos, `S. Kéfi`. 2022. 
+[Ecological Resilience: What to Measure and How.](doi.org/10.1088/1748-9326/ac5767) 
+Environmental Research Letters. 17: 043003 
 
-Saade, C.,S Kéfi, C. Gougat-Barbera, B. Rosenbaum, E.A. Fronhofer. 2022. Spatial autocorrelation of local patch extinctions drives recovery dynamics in metacommunities.Proceedings of the Royal Society B289(1972), 20220543.https://doi.org/10.1098/rspb.2022.0543
+C. Saade, `S Kéfi`, C. Gougat-Barbera, B. Rosenbaum, E.A. Fronhofer. 2022. 
+[Spatial autocorrelation of local patch extinctions drives recovery dynamics in metacommunities.](https://doi.org/10.1098/rspb.2022.0543) 
+Proceedings of the Royal Society B. 289(1972): 20220543 
 
-Rigal, S., Devictor V., Gaüzère P.,Kéfi S., Forsman JT, Kajanus MH, Mönkkönen M, Dakos V. 2022. Biotic homogenisation in bird communities leads to large-scale changes in species associations.Oikos00:1–14.doi:10.1111/oik.08756
+S. Rigal, V. Devictor, P. Gaüzère, `Kéfi S.`, Forsman JT, Kajanus MH, Mönkkönen M, Dakos V. 2022. 
+[Biotic homogenisation in bird communities leads to large-scale changes in species associations.](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.08756) 
+Oikos. 2022: e08756 
 
-A Vasques, M Baudena, VR Vallejo,S Kéfi, S Bautista, VM Santana, MJ Baeza, P. Maia, J.J. Keizer, M. Rietkerk.  2022. Post-fire Regeneration Traits of Understorey Shrub Species Modulate Successional Responses to High Severity Fire in Mediterranean Pine Forests.Ecosystems, 1-15.https://doi.org/10.1007/s10021-022-00750-z
+A. Vasques, M. Baudena, V.R. Vallejo, `S. Kéfi`, S. Bautista, V.M. Santana, M.J. Baeza, P. Maia, J.J. Keizer, M. Rietkerk.  2022. 
+[Post-fire Regeneration Traits of Understorey Shrub Species Modulate Successional Responses to High Severity Fire in Mediterranean Pine Forests.](https://doi.org/10.1007/s10021-022-00750-z) 
+Ecosystems. 26: 146–160 
 
-Houngnandan, F.,S. Kéfi, T. Bockel, J. Deter. 2022. The joint influence of environmental and anthropogenic factors on the invasion of two alien caulerpae in northwestern Mediterranean. Biological Invasions 24 (2), 449-462.https://doi.org/10.1007/s10530-021-02654-w
+F. Houngnandan, `S. Kéfi`, T. Bockel, J. Deter. 2022. 
+[The joint influence of environmental and anthropogenic factors on the invasion of two alien caulerpae in northwestern Mediterranean.](https://doi.org/10.1007/s10530-021-02654-w) 
+Biological Invasions. 24(2): 449-462 
+
 
 ### 2021
 
-Génin, A., T. Dutoit, A. Danet, A. le Priol,S. Kéfi.
-Grazing and the vanishing complexity of plant association networks in grasslands.
-Oikos. 130(4): 541-552.
+Génin, A., T. Dutoit, A. Danet, A. le Priol, `S. Kéfi`. 
+[Grazing and the vanishing complexity of plant association networks in grasslands.](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.07850) 
+Oikos. 130(4): 541-552 
 
-Blog poston this paper
+Danet, A., F.D. Schneider, F. Anthelme, `S. Kéfi`.
+[Indirect facilitation drives species composition and stability in drylands.](https://link.springer.com/article/10.1007/s12080-020-00489-0) 
+Theoretical Ecology. 14: 189-203 
 
-Danet, A., F.D. Schneider, F. Anthelme,S. Kéfi.
-Indirect facilitation drives species composition and stability in drylands.
-Theoretical Ecology. 14:189-203.https://doi.org/10.1007/s12080-020-00489-0
+Thompson, P.L., `S. Kéfi`, Y.R. Zelnik, L.E. Dee, S. Wang, C. de Mazancourt, M. Loreau, A. Gonzalez. 
+[Scaling up biodiversity–ecosystem functioning relationships: the role of environmental heterogeneity in space and time.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2779) 
+Proceedings of the Royal Society B. 288:20202779 
 
-Thompson, P.L.,S. Kéfi, Y.R. Zelnik, L.E. Dee, S. Wang, C. de Mazancourt, M. Loreau, A. Gonzalez.
-Scaling up biodiversity–ecosystem functioning relationships: the role of environmental heterogeneity in space and time.
-Proceedings of the Royal Society B.288(1946). https://doi.org/10.1098/rspb.2020.2779.BioRxiv.
+Maestre, F., B. Benito, M. Berdugo, L. Concostrina-Zubiri, M. Delgado-Baquerizo, D. Eldridge, E. Guirado, N. Gross, `S. Kéfi`, Y. Le Bagousse-Pinguet,  R. Ochoa Hueso, S. Soliveres.
+[Biogeography of global drylands.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17395)  
+New Phytologist. 231(2): 540-558 
 
-Maestre, F., B. Benito, M. Berdugo, L. Concostrina-Zubiri, M. Delgado-Baquerizo, D. Eldridge, E. Guirado, N. Gross,S. Kéfi, Y. Le Bagousse-Pinguet,  R. Ochoa Hueso, S. Soliveres.
-Biogeography of global drylands.
-New Phytologist. 231(2): 540-558. doi:10.1111/nph.17395.
+Battiston, F., E. Amico, A. Barrat, G. Bianconi, G. Ferraz de Arruda, B. Franceschiello, I. Iacopini, `S. Kéfi`, V. Latora, Y. Moreno, M. M. Murray, T. P. Peixoto, F. Vaccarino, G. Petri. 2021. 
+[Higher-order interactions in complex networks: an opportunity for new physics.](https://www.nature.com/articles/s41567-021-01371-4) 
+Nature Physics. 17(10):1093-1098 
 
-Battiston, F., E. Amico, A. Barrat, G. Bianconi, G. Ferraz de Arruda, B. Franceschiello, I. Iacopini,S. Kéfi, V. Latora, Y. Moreno, M. M. Murray, T. P. Peixoto, F. Vaccarino, G. Petri. 2021.
-Higher-order interactions in complex networks: an opportunity for new physics.
-Nature Physics. 17:1093.
+Lurgi, M., N. Galiana, B.R. Broitman, `S. Kéfi`, E.A. Wieters, S.A. Navarrete. 2021. 
+[Geographical variation of multiplex ecological networks in marine intertidal communities.](https://www.jstor.org/stable/26968883)  
+Bulletin of the Ecological Society of America. 102(1), 1-7
 
-Lurgi, M., N. Galiana, B.R. Broitman,S. Kéfi, E.A. Wieters, S.A. Navarrete. 2021
-Geographical variation of multiplex ecological networks in marine intertidal communities
-Bulletin of the Ecological Society of America 102 (1), 1-7
 
 ### 2020 
 
-Génin, A., S. Lee, E.L. Berlow, S. Ostoja,S. Kéfi.
-Mapping hotspots of potential ecosystem fragility using commonly available spatial data.
-Biological Conservation. 241: 108388.
+Génin, A., S. Lee, E.L. Berlow, S. Ostoja, `S. Kéfi`.
+[Mapping hotspots of potential ecosystem fragility using commonly available spatial data.](https://www.sciencedirect.com/science/article/abs/pii/S0006320719312388) 
+Biological Conservation. 241: 108388 
 
-Kéfi, S.
+`Kéfi, S`.
 Ecological Networks: from structure to dynamics.
 Chapter 10 in: Theoretical ecology: Concepts and applications. Oxford University Press.
 
-Houngnandan, F.,S. Kéfi, J. Deter.
-Identifying key-conservation areas for Posidonia oceanica seagrass beds.
-Biological Conservation. 246: 108546.
+Houngnandan, F., `S. Kéfi`, J. Deter.
+[Identifying key-conservation areas for Posidonia oceanica seagrass beds.](https://www.sciencedirect.com/science/article/abs/pii/S000632071931821X) 
+Biological Conservation. 247: 108546 
 
-Gonzalez, A., R.M. Germain, D.S. Srivastava, E. Filotas, L.E. Dee, D. Gravel, M.I. O’Connor, P.L. Thompson, J. Cowles, F. Isbell, S. Wang,S. Kéfi, J. Montoya, Y. Zelnik, M Loreau.
-Scaling-up biodiversity-ecosystem functioning research.
-Ecology Letters. 23(4): 757-776.
+Gonzalez, A., R.M. Germain, D.S. Srivastava, E. Filotas, L.E. Dee, D. Gravel, M.I. O’Connor, P.L. Thompson, J. Cowles, F. Isbell, S. Wang, `S. Kéfi`, J. Montoya, Y. Zelnik, M Loreau.
+[Scaling-up biodiversity-ecosystem functioning research.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13456) 
+Ecology Letters. 23(4): 757-776 
 
-Arnoldi, J.-F., S. Coq,S. Kéfi, S. Ibanez.
-Positive plant-soil feedbacks trigger tannin evolution by niche construction: a spatial stoichiometric model.Journal of Ecology. 108(1): 378-391.
+Arnoldi, J.-F., S. Coq, `S. Kéfi`, S. Ibanez. 
+[Positive plant-soil feedbacks trigger tannin evolution by niche construction: a spatial stoichiometric model.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13234) 
+Journal of Ecology. 108(1): 378-391 
 
-Lurgi, M., N. Galiana, B. Broitman,S. Kéfi, E. Wieters, S. Navarrete.
-Geographical variation of multiplex ecological networks in marine intertidal communities.
-Ecology. 101(11): e03165.
-Related articlein the Bulletin of the ESA
+Lurgi, M., N. Galiana, B.R. Broitman, `S. Kéfi`, E.A. Wieters, S.A. Navarrete. 2020. 
+[Geographical variation of multiplex ecological networks in marine intertidal communities.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3165) 
+Ecology 101(11):e03165 
 
-van den Elsen, E., L. Stringer, C. de Ita, R. Hessel,S. Kéfi, F.D. Schneider, S. Bautista, A. Garcia Mayor, M. Baudena, M. Rietkerk, A. Valdecantos, V. Ramon Vallejo, N. Geeson, J. Brandt, L. Fleskens, L. Hemerik, P. Panagos, S. Valente, J. Jacob Keizer, G. Schwilch, M. Jucker Riva, D. Sietz, M.A. Christoforou, D.G. Hadjimitsis, C. Papoutsa, G. Quaranta, R. Salvia, I. Tsanis, I.N. Daliakopoulos, H. Claringbould, P.C. De Ruiter.
-Advances in understanding and managing catastrophic shifts in Mediterranean ecosystems.
-Frontiers in Ecology and Evolution.https://doi.org/10.3389/fevo.2020.561101
+van den Elsen, E., L. Stringer, C. de Ita, R. Hessel, `S. Kéfi`, F.D. Schneider, S. Bautista, A. Garcia Mayor, M. Baudena, M. Rietkerk, A. Valdecantos, V. Ramon Vallejo, N. Geeson, J. Brandt, L. Fleskens, L. Hemerik, P. Panagos, S. Valente, J. Jacob Keizer, G. Schwilch, M. Jucker Riva, D. Sietz, M.A. Christoforou, D.G. Hadjimitsis, C. Papoutsa, G. Quaranta, R. Salvia, I. Tsanis, I.N. Daliakopoulos, H. Claringbould, P.C. De Ruiter. 
+[Advances in understanding and managing catastrophic shifts in Mediterranean ecosystems.](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2020.561101/full) 
+Frontiers in Ecology and Evolution. 8: 561101
 
-Drake, J.M., S.M. O’Regan, V. Dakos, S. Kéfi, P. Rohani.
+Drake, J.M., S.M. O’Regan, V. Dakos, `S. Kéfi`, P. Rohani.
 Alternative stable states, tipping points, and early warning signals of ecological transitions.
 Chapter 15 in: Theoretical ecology: Concepts and applications. Oxford University Press.
 
+
 ### 2019
 
-Dominguez-Garcia, V., V. Dakos,S. Kéfi.
-Unveiling dimensions of stability in complex ecological networks.
-PNAS. 116(51): 25714-25720.
+Dominguez-Garcia, V., V. Dakos, `S. Kéfi`.
+[Unveiling dimensions of stability in complex ecological networks.](https://www.pnas.org/doi/abs/10.1073/pnas.1904470116) 
+PNAS. 116(51): 25714-25720
 
-CNRS news[in French]
+`Kéfi, S.`, V. Dominguez-Garcia, I. Donohue, C. Fontaine, E. Thébault, V. Dakos. 
+[Advancing our understanding of ecological stability.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13340) 
+Ecology Letters. 22(9): 1349-1356
 
-Kéfi, S., V. Dominguez-Garcia, I. Donohue, C. Fontaine, E. Thébault, V. Dakos.
-Advancing our understanding of ecological stability.
-Ecology Letters.22(9): 1349-1356.
-
-Kéfi, S.
+`Kéfi, S.` 
 Multiple Stable States and Catastrophic Shifts in Ecosystems.
 In:Oxford Bibliographies in Ecology. Ed. David Gibson. New York: Oxford University Press. DOI: 10.1093/obo/9780199830060-0219
 
-Miele, V., C. Guill, R. Ramos-Jiliberto,S. Kéfi.
-Non-trophic interactions strengthen the diversity-functioning relationship in an ecological bioenergetic network model.
-PLoS Computational Biology. 15(8): e1007269.bioRxiv.
+Miele, V., C. Guill, R. Ramos-Jiliberto, `S. Kéfi`. 
+[Non-trophic interactions strengthen the diversity-functioning relationship in an ecological bioenergetic network model.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007269) 
+PLoS Computational Biology. 15(8): e1007269
 
-Mayor, A.G., S. Bautista, F. Rodriguez,S. Kéfi.
-Connectivity-mediated ecohydrological feedbacks and regime shifts in drylands.
-Ecosystems. 22(7):1497-1511.
+Mayor, A.G., S. Bautista, F. Rodriguez, `S. Kéfi`. 
+[Connectivity-mediated ecohydrological feedbacks and regime shifts in drylands.](https://link.springer.com/article/10.1007/s10021-019-00366-w) 
+Ecosystems. 22(7):1497-1511 
 
-Gaüzere, P., G. Doulcier, V. Devictor,S. Kéfi.
-A framework for estimating species-specific contributions to community indicators.
-Ecological Indicators. 99: 74-82.
+Gaüzere, P., G. Doulcier, V. Devictor, `S. Kéfi`. 
+[A framework for estimating species-specific contributions to community indicators.](https://www.sciencedirect.com/science/article/abs/pii/S1470160X18309324) 
+Ecological Indicators. 99: 74-82 
 
-Berdugo, M., F.T. Maestre,S. Kéfi, N. Gross, Y. Le Bagousse-Pinguet, S. Soliveres.
-Aridity preferences alter the relative importance of abiotic and biotic drivers on plant species abundance in global drylands.
-Journal of Ecology. 107(1): 190-202.
+Berdugo, M., F.T. Maestre, `S. Kéfi`, N. Gross, Y. Le Bagousse-Pinguet, S. Soliveres. 
+[Aridity preferences alter the relative importance of abiotic and biotic drivers on plant species abundance in global drylands.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13006)
+Journal of Ecology. 107(1): 190-202 
 
-Berdugo, M., S. Soliveres,S. Kéfi, F.T. Maestre.
-The interplay between facilitation and habitat type drives spatial vegetation patterns in global drylands.
-Ecography. 42(4): 755-767.bioRxiv.
+Berdugo, M., S. Soliveres, `S. Kéfi`, F.T. Maestre. 
+[The interplay between facilitation and habitat type drives spatial vegetation patterns in global drylands.](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/ecog.03795) 
+Ecography. 42(4): 755-767 
 
-Rebolledo, R., S.A. Navarrete,S. Kéfi, S. Rojas, P.A. Marquet.
-An Open-System Approach to Complex Biological Networks.
-SIAM Journal on Applied Mathematics. 79(2): 619-640.
+Rebolledo, R., S.A. Navarrete, `S. Kéfi`, S. Rojas, P.A. Marquet.
+[An Open-System Approach to Complex Biological Networks.](https://epubs.siam.org/doi/abs/10.1137/17M1153431) 
+SIAM Journal on Applied Mathematics. 79(2): 619-640 
 
-Hutchinson, M.C., B. Bramon Mora, S. Pilosof, A.K. Barner,S. Kéfi, E. Thébault, P. Jordano, D.B. Stouffer.
-Seeing the forest for the trees: Putting multilayer networks to work for community ecology.
-Functional Ecology.3(2): 206-2017.
+Hutchinson, M.C., B. Bramon Mora, S. Pilosof, A.K. Barner, `S. Kéfi`, E. Thébault, P. Jordano, D.B. Stouffer. 
+[Seeing the forest for the trees: Putting multilayer networks to work for community ecology.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13237) 
+Functional Ecology.3(2): 206-2017
 
-Brose, U., P. Archambault, A.D. Barnes, L.-F. Bersier, T. Boy, J. Canning-Clode,et al.
-Predator traits determine food-web architecture across ecosystems.
-Nature in Ecology andEvolution.3: 919-927.
+Brose, U., P. Archambault, A.D. Barnes, L.-F. Bersier, T. Boy, J. Canning-Clode, <em>et al.</em> 
+[Predator traits determine food-web architecture across ecosystems.](https://www.nature.com/articles/s41559-019-0899-x) 
+Nature in Ecology andEvolution. 3: 919-927 
 
 ### 2018
 
