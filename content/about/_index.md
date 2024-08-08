@@ -2,8 +2,8 @@
 title: "About"
 description: |
   Sonia Kéfi's webpage.
-show_header: true
-sidebar_left: false
+show_header: false
+sidebar_left: true
 # Keep this! Do not edit.
 cascade:
   headless: false

@@ -3,7 +3,7 @@ title: "Sonia Kéfi"
 subtitle: "Ecosystem dynamics and resilience"
 description: " "
 images:
-  - img/sonia_kefi_web_1200.png
+  - img/dryland_top.png
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config

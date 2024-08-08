@@ -12,10 +12,17 @@
       <link>/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/about/header/</guid>
-      <description>I am a researcher at the CNRS based in the BioDICée team at the Institut des Sciences de l’Evolution de Montpellier (ISEM), France.&#xA;In an era of global change, my research aims at understanding how ecosystems persist and change under pressures from changing climate and land use. What makes ecosystems resilient to changes and what makes them fragile?&#xA;I combine mathematical modeling and data analysis to investigate the role of ecological interactions (in particular facilitation) in stabilizing and destabilizing ecosystems, but also to develop indicators of resilience that could warn us of approaching ecosystem shifts.</description>
+      <description> </description>
     </item>
     <item>
-      <title> </title>
+      <title></title>
+      <link>/about/sidebar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/sidebar/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+    </item>
+    <item>
+      <title> About me </title>
       <link>/about/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/about/main/</guid>
