@@ -1,6 +1,6 @@
 ---
 title: Research
-description: "here are some projects"
+description: ""
 author: ""
 show_post_thumbnail: true
 show_author_byline: false
