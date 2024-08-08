@@ -77,6 +77,34 @@ Ecography. e07167
 
 ### 2023
 
+TM Lenton <em>et al.</em> 
+The Global Tipping Points Report 2023
+
+C. Saade, E.A. Fronhofer, B. Pichon, `S. Kéfi`. 
+[Landscape structure affects metapopulation-scale tipping points.](https://www.journals.uchicago.edu/doi/abs/10.1086/724550) 
+The American Naturalist. 202(1): E17-E30
+
+M. Sánchez‐Pinillos, `S. Kéfi`, M. De Cáceres, V. Dakos. 
+[Ecological dynamic regimes: Identification, characterization, and comparison.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecm.1589) 
+Ecological monographs. 93(4): e1589
+
+X. Wang, T. Peron, J.L.A. Dubbeldam, `S. Kéfi`, Y. Moreno. 
+[Interspecific competition shapes the structural stability of mutualistic networks.](https://www.sciencedirect.com/science/article/pii/S0960077923004083)
+Chaos, Solitons & Fractals. 172, 113507
+
+V. Dakos, C.A. Boulton, J.E. Buxton, J.F. Abrams, D.I. Armstrong McKay, S. Bathiany, L. Blaschke, N. Boers, D. Dylewsky, C. López-Martínez, I. Parry, P. Ritchie, B. van der Bolt, L. van der Laan, E. Weinans, `S. Kéfi`. 
+[Tipping point detection and early-warnings in climate, ecological, and human systems.](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1773/) 
+EGUsphere [preprint]
+
+A. Vasques, M. Baudena, V.R. Vallejo, `S Kéfi`, S. Bautista, V.M. Santana, M.J. Baeza, P. Maia, J.J. Keizer, M. Rietkerk. 
+[Post-fire regeneration traits of understorey shrub species modulate successional responses to high severity fire in Mediterranean pine forests.](https://link.springer.com/article/10.1007/s10021-022-00750-z) 
+Ecosystems. 26(1): 146-160
+
+E Forgoston <em>et al.</em> 
+[Stability and Fluctuations in Complex Ecological Systems.](https://arxiv.org/abs/2306.07447)  
+arXiv:2306.07447
+
+
 ### 2022
 
 Kéfi, S., C. Saade, E. L. Berlow, J. S. Cabral, E. A. Fronhofer. 2022. Scaling up our understanding of tipping points. Philosophical transactions of the Royal Society B. 377: 1857.https://doi.org/10.1098/rstb.2021.0386
