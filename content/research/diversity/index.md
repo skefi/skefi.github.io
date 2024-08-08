@@ -1,6 +1,6 @@
 ---
 title: "Uncovering the role of the diversity of interaction types in nature"
-subtitle: " "
+subtitle: "How and when does the diversity of interactions matter for the dynamics and resilience of ecological systems?"
 excerpt: " "
 date: 
 author: " "
@@ -22,6 +22,8 @@ links:
   name: code
   url: https://github.com/BecksLab/EcologicalNetworksDynamics.jl
 ---
+
+![](ChileanWeb_top.jpg)
 
 In ecological communities, interactions between species form complex networks that mediate their response to perturbations. So far, ecological network studies have typically focused on one (or a few) interaction types at a time, but data and models of webs including different interaction types simultaneously have recently become available. How and when does the diversity of interactions matter for the dynamics and resilience of ecological systems? My recent research aims at analyzing ecological networks including different types of interactions. Moving beyond unidimensional analyses of ecological networks may contribute to improving our understanding and predictive capacity of the way ecological systems respond to disturbances.
 
