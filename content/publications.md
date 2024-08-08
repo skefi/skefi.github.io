@@ -6,6 +6,10 @@ show_title_as_headline: true
 title: Publications
 ---
 
+> See [here](https://scholar.google.nl/citations?hl=fr&user=JcRmX4EAAAAJ) for a full and updated list of publications
+>
+
+
 ## Selected publications
 
 `Kéfi, S.`, A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre. 2024.
@@ -33,9 +37,6 @@ Nature
 
 
 ## All publications (after 2018)
-
-> See [here](https://scholar.google.nl/citations?hl=fr&user=JcRmX4EAAAAJ) for an updated list of publications
->
 
 ### 2024
 
