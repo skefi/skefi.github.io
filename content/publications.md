@@ -6,8 +6,7 @@ show_title_as_headline: true
 title: Publications
 ---
 
-> See [here](https://scholar.google.nl/citations?hl=fr&user=JcRmX4EAAAAJ) for a full and updated list of publications
->
+> See [here](https://scholar.google.nl/citations?hl=fr&user=JcRmX4EAAAAJ) for a full and updated list of publications.
 
 
 ## Selected publications
@@ -252,7 +251,7 @@ Génin, A., S. Majumder, S. Sankaran, A. Danet, V. Guttal, F.D. Schneider, `S. K
 Methods in Ecology and Evolution. 9(10): 2067-2075
 
 spatialwarnings R package
-github repositoty
+[github repositoty](https://github.com/spatial-ews/spatialwarnings)
 
 Danet, A., F. Anthelme, N. Gross, `S. Kéfi`. 
 [Effects of indirect facilitation on functional diversity, dominance and niche differentiation in tropical alpine communities.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12667)  
