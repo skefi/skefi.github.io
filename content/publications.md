@@ -33,6 +33,7 @@ PLoS ONE.
 [Spatial vegetation patterns and imminent desertification in Mediterranean arid ecosystems.](https://www.nature.com/articles/nature06111)
 Nature
 
+![](book_top.png)
 
 ## All publications (after 2018)
 

@@ -20,6 +20,8 @@ links:
   url: https://github.com/spatial-ews/spatialwarnings
 ---
 
+![](desert_top.jpg)
+
 With the current global change, it is becoming increasingly important for us to be able to anticipate shifts in ecological communities. Shifts are often responsible for large, long-lasting changes and can result in dramatic ecological and economic consequences. Are there early warning signs that an ecosystem is loosing resilience?
 
 Generic indicators, that can be quantified on the temporal and spatial dynamics of ecosystems, have been identified in the literature. In addition, for terrestrial ecosystems, it has been hypothesized that vegetation patchiness could be used as a signature of imminent transitions in ecosystems. Using both field data and modelling approaches,I investigate when and where these indicators can be quantified and when their predictions in terms of ecosystem degradation are reliable, with a current focus on arid ecosystems.
@@ -37,13 +39,23 @@ R-package on [spatial early warning signals](https://github.com/spatial-ews/spat
 ### Some publications:
 
 Kéfi et al. 2024. PNAS
+
 Génin, A. et al. 2020. Biological Conservation. 
+
 Génin, A.et al. 2018. Methods in Ecology and Evolution.
+
 Kéfi, S. and P. Couteron. 2018. Ecological indicators. 
+
 Berdugo, M. et al.2017. Nature in Ecology and Evolution. 
+
 Schneider, F.D. and S. Kéfi. 2016. Theoretical Ecology. 
+
 Kéfi, S. et al. 2014. PLoS ONE. 
+
 Kéfi, S.et al. 2013. Oikos. 
+
 Kéfi, S. et al. 2011. Ecology Letters. 
+
 Kéfi, S. et al. 2007. Theoretical Population Biology. 
-Kéfi, S. et al. 2007.Nature.
+
+Kéfi, S. et al. 2007. Nature.
