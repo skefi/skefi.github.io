@@ -8,7 +8,9 @@ title: Publications
 
 ## Selected publications
 
-Kéfi, S., C. Saade, E. L. Berlow, J. S. Cabral, E. A. Fronhofer. 2022. Scaling up our understanding of tipping points. Philosophical transactions of the Royal Society B. 377: 1857.https://doi.org/10.1098/rstb.2021.0386
+*text*
+
+**Kéfi, S.**, C. Saade, E. L. Berlow, J. S. Cabral, E. A. Fronhofer. 2022. Scaling up our understanding of tipping points. Philosophical transactions of the Royal Society B. 377: 1857.https://doi.org/10.1098/rstb.2021.0386
 
 Pilosof, S., Porter M.A., Pascual M., Kéfi S.2017. The multilayer nature of ecological networks.Nature in Ecology and Evolution. 1:0101
 
