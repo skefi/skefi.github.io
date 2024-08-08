@@ -32,7 +32,7 @@ PLoS ONE.
 Nature
 
 
-## All publications
+## All publications (after 2018)
 
 > See [here](https://scholar.google.nl/citations?hl=fr&user=JcRmX4EAAAAJ) for an updated list of publications
 >
@@ -239,44 +239,40 @@ Brose, U., P. Archambault, A.D. Barnes, L.-F. Bersier, T. Boy, J. Canning-Clode,
 [Predator traits determine food-web architecture across ecosystems.](https://www.nature.com/articles/s41559-019-0899-x) 
 Nature in Ecology andEvolution. 3: 919-927 
 
+
 ### 2018
 
-Kéfi, S., P. Couteron.
-Spatiotemporal patterns as early warnings of possible catastrophic shifts in stressed ecological systems.
-Ecological Indicators. 94(1): 491-493.
+`Kéfi, S.`, P. Couteron.
+[Spatiotemporal patterns as early warnings of possible catastrophic shifts in stressed ecological systems.](https://www.sciencedirect.com/science/article/abs/pii/S1470160X18305636) 
+Ecological Indicators. 94(1): 491-493
 
-Génin, A., S. Majumder, S. Sankaran, A. Danet, V. Guttal, F.D. Schneider,S. Kéfi.
-Monitoring ecosystem degradation using spatial data and the R package spatialwarnings.
-Methods in Ecology and Evolution. 9(10): 2067-2075.
+Génin, A., S. Majumder, S. Sankaran, A. Danet, V. Guttal, F.D. Schneider, `S. Kéfi`. 
+[Monitoring ecosystem degradation using spatial data and the R package spatialwarnings.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13058) 
+Methods in Ecology and Evolution. 9(10): 2067-2075
 
 spatialwarnings R package
 github repositoty
 
-Danet, A., F. Anthelme, N. Gross, S. Kéfi.
-Effects of indirect facilitation on functional diversity, dominance and niche differentiation in tropical alpine communities.
-Journal of vegetation science. 29(5): 835-846.
+Danet, A., F. Anthelme, N. Gross, `S. Kéfi`. 
+[Effects of indirect facilitation on functional diversity, dominance and niche differentiation in tropical alpine communities.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12667)  
+Journal of vegetation science. 29(5): 835-846
 
-Génin, A., S. Majumder, S. Sankaran, F.D. Schneider, A. Danet, M. Berdugo, V. Guttal,S. Kéfi.
-Spatially heterogeneous stressors can alter the performance of indicators of regime shifts.
-Ecological Indicators. 94(1): 520-533.
+Génin, A., S. Majumder, S. Sankaran, F.D. Schneider, A. Danet, M. Berdugo, V. Guttal, `S. Kéfi`. 
+[Spatially heterogeneous stressors can alter the performance of indicators of regime shifts.](https://www.sciencedirect.com/science/article/abs/pii/S1470160X17307082)  
+Ecological Indicators. 94(1): 520-533
 
-Zélé, F., S. Magalhães,S. Kéfi, A.B. Duncan.
-Ecology and evolution of facilitation among symbionts: causes and consequences.
-Nature communications. 9 (1): 4869.
+Zélé, F., S. Magalhães, `S. Kéfi`, A.B. Duncan. 
+[Ecology and evolution of facilitation among symbionts: causes and consequences.](https://www.nature.com/articles/s41467-018-06779-w)  
+Nature communications. 9(1): 4869
 
-Sankaran, S., S. Majumder,S.Kéfi, V. Guttal.
-Implications of being discrete and spatial for detecting early warning signals of regime shifts.
-Ecological Indicators. 94(1): 503-511.
+Sankaran, S., S. Majumder, `S.Kéfi`, V. Guttal. 
+[Implications of being discrete and spatial for detecting early warning signals of regime shifts.](https://www.sciencedirect.com/science/article/abs/pii/S1470160X17307525)  
+Ecological Indicators. 94(1): 503-511 
 
-Kadowaki⁠, K., S. Nishijima⁠,S. Kéfi⁠, K.O. Kameda⁠, T. Sasaki⁠.
-Merging community assembly into the regime-shift approach for informing ecological restoration.
-Ecological Indicators. 85: 991-998.
+K. Kadowaki, S. Nishijima, `S. Kéfi`, K.O. Kameda, T. Sasaki. [Merging community assembly into the regime-shift approach for informing ecological restoration.](https://www.sciencedirect.com/science/article/pii/S1470160X17307471) 
+Ecological Indicators. 85: 991-998 
 
-Maris, V., P. Huneman, A. Coreau,S. Kéfi, R. Pradel, V. Devictor.
-Prediction in ecology: promises, obstacles and clarifications.
-Oikos,127(2): 171-183.
-
-CNRS news[in French]
-
-### Older publications
+Maris, V., P. Huneman, A. Coreau, `S. Kéfi`, R. Pradel, V. Devictor. 
+[Prediction in ecology: promises, obstacles and clarifications.](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.04655) 
+Oikos. 127(2): 171-183 
 
