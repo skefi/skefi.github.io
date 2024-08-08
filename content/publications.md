@@ -8,29 +8,72 @@ title: Publications
 
 ## Selected publications
 
-*text*
+`Kéfi, S.`, A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre. 2024.
+[Self-organization as a mechanism of resilience in dryland ecosystems.](https://www.pnas.org/doi/full/10.1073/pnas.2305153121)
+Proceedings of the National Academy of Sciences 
 
-**Kéfi, S.**, C. Saade, E. L. Berlow, J. S. Cabral, E. A. Fronhofer. 2022. Scaling up our understanding of tipping points. Philosophical transactions of the Royal Society B. 377: 1857.https://doi.org/10.1098/rstb.2021.0386
+`Kéfi, S.`, C. Saade, E. L. Berlow, J. S. Cabral, E. A. Fronhofer. 2022. 
+[Scaling up our understanding of tipping points.](https://doi.org/10.1098/rstb.2021.0386)
+Philosophical transactions of the Royal Society B. 
 
-Pilosof, S., Porter M.A., Pascual M., Kéfi S.2017. The multilayer nature of ecological networks.Nature in Ecology and Evolution. 1:0101
+Pilosof, S., Porter M.A., Pascual M., `Kéfi S`.2017. 
+[The multilayer nature of ecological networks.](https://www.nature.com/articles/s41559-017-0101)  
+Nature in Ecology and Evolution. 
 
-Kéfi, S., V. Miele, E.A. Wieters, S.A. Navarrete, E.L. Berlow. 2016. How structured is the entangled bank? The surprisingly simple organization of multiplex ecological networks leads to increased persistence and resilience.PLOS Biology. DOI:10.1371/journal.pbio.100252
-*These authors contributed equally to the study
+`Kéfi, S.`, E. Berlow, E. Wieters, S. Navarrete, O. Petchey, S. Wood, A. Boit, L. Joppa, K. Lafferty, R. Williams, N. Martinez, B. Menge, C. Blanchette, A. Iles, U. Brose. 2012. [More than a meal… Integrating non-feeding interactions into food webs.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2011.01732.x)
+Ecology Letters. 
 
-Kéfi, S., E. Berlow, E. Wieters, S. Navarrete, O. Petchey, S. Wood, A. Boit, L. Joppa, K. Lafferty, R. Williams, N. Martinez, B. Menge, C. Blanchette, A. Iles, U. Brose. 2012. More than a meal… Integrating non-feeding interactions into food webs.Ecology Letters. 15(4):291-300
+`Kéfi, S.`, V. Guttal, W.A. Brock, S.R. Carpenter, A.M. Ellison, V. Livina, D.A. Seekell, M. Scheffer, E.H. van Nes, V. Dakos. 2014. 
+Early Warning signals of ecological transitions: Methods for spatial patterns.
+PLoS ONE. 
 
-Kéfi, S., V. Guttal, W.A. Brock, S.R. Carpenter, A.M. Ellison, V. Livina, D.A. Seekell, M. Scheffer, E.H. van Nes, V. Dakos. 2014. Early Warning signals of ecological transitions: Methods for spatial patterns.PLoS ONE. 9(3):2097
+`Kéfi, S.`, M. Rietkerk, C. L. Alados, Y. Pueyo, A. ElAich, V. Papanastasis, P. C. de Ruiter. 2007. 
+[Spatial vegetation patterns and imminent desertification in Mediterranean arid ecosystems.](https://www.nature.com/articles/nature06111)
+Nature
 
-Kéfi, S., M. Rietkerk, M. van Baalen, M. Loreau. 2007. Local facilitation, bistability and transitions in arid ecosystems.Theoretical Population Biology. 71(3):267-400
-
-Kéfi, S., M. Rietkerk, C. L. Alados, Y. Pueyo, A. ElAich, V. Papanastasis, P. C. de Ruiter. 2007. Spatial vegetation patterns and imminent desertification in Mediterranean arid ecosystems.Nature. 449(7159):213-217 
-Access the recommendation on F1000
-
-Thank you to all the folks who have contributed both technical and creative skills to this project:
 
 ## All publications
 
+> See [here](https://scholar.google.nl/citations?hl=fr&user=JcRmX4EAAAAJ) for an updated list of publications
+>
+
 ### 2024
+
+`S. Kéfi`, A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre. 
+[Self-organization as a mechanism of resilience in dryland ecosystems.](https://www.pnas.org/doi/abs/10.1073/pnas.2305153121) 
+Proceedings of the National Academy of Sciences. 121(6): e2305153121
+
+`S. Kéfi`, C.J. Lortie, L.A. Cavieres. 
+[The importance of facilitative interactions in mediating climate change impact on biodiversity.](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.10984) 
+Oikos. e10984
+
+V. Domínguez-García, `S. Kéfi`. 
+[The structure and robustness of ecological networks with two interaction types.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011770)  
+PLoS Computational Biology. 20(1): e1011770
+
+G. Aguadé‐Gorgorió, J. Arnoldi, M. Barbier, `S. Kéfi`. 
+[A taxonomy of multiple stable states in complex ecological communities.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14413)  
+Ecology Letters. 27(4): e14413
+
+G. Aguadé-Gorgorió, `S. Kéfi`. 
+[Alternative cliques of coexisting species in complex ecosystems.](https://iopscience.iop.org/article/10.1088/2632-072X/ad506a/meta)  
+Journal of Physics: Complexity. 5: 025022
+
+B. Pichon, I. Gounand, S. Donnet, `S. Kéfi`. 
+[The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.4369) 
+Ecology. e4369
+
+J. Jorna, B.J. Adams, Z.T. Aanderud, P.B. Frandsen, C. Takacs‐Vesbach, `S. Kéfi`. 
+[The underground network: facilitation in soil bacteria.](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.10299) 
+Oikos. e10299
+
+A. Danet, S. Bautista, A. Génin, A.P. Beckerman, F. Anthelme, `S. Kéfi`. 
+[Species diversity promotes facilitation under stressful conditions.](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.10303)  
+Oikos. e10303
+
+B. Pichon, `S. Kéfi`, N. Loeuille, I. Lajaaiti, I. Gounand. [Integrating ecological feedbacks across scales and levels of organization.](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.07167) 
+Ecography. e07167
+
 
 ### 2023
 

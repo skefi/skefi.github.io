@@ -8,7 +8,7 @@ show_intro: true
 intro: |
   I am a researcher at the CNRS based in the [BioDICée team](https://biodicee.edu.umontpellier.fr/) at the Institut des Sciences de l’Evolution de Montpellier [(ISEM)](https://isem-evolution.fr/), France. I am also an external professor at the [Santa Fe Institute](https://santafe.edu/) (NM, USA). 
 
-  In an era of global change, my research aims at understanding how ecosystems persist and change under pressures from changing climate and land use. What makes ecosystems resilient to changes and what makes them fragile?
+  My research aims at understanding how ecosystems persist and change under pressures from changing climate and land use. What makes ecosystems resilient to changes and what makes them fragile?
 
   I combine mathematical modeling and data analysis to investigate the role of ecological interactions (in particular facilitation) in stabilizing and destabilizing ecosystems, but also to develop indicators of resilience that could warn us of approaching ecosystem shifts.
 show_outro: true
