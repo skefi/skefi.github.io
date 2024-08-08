@@ -11,23 +11,22 @@ title: Publications
 
 ## Selected publications
 
-`Kéfi, S.`, A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre. 2024.
-[Self-organization as a mechanism of resilience in dryland ecosystems.](https://www.pnas.org/doi/full/10.1073/pnas.2305153121)
+`Kéfi, S.`, A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre. 2024. [Self-organization as a mechanism of resilience in dryland ecosystems.](https://www.pnas.org/doi/full/10.1073/pnas.2305153121)
 Proceedings of the National Academy of Sciences 
 
 `Kéfi, S.`, C. Saade, E. L. Berlow, J. S. Cabral, E. A. Fronhofer. 2022. 
 [Scaling up our understanding of tipping points.](https://doi.org/10.1098/rstb.2021.0386)
 Philosophical transactions of the Royal Society B. 
 
-Pilosof, S., Porter M.A., Pascual M., `Kéfi S`.2017. 
+Pilosof, S., Porter M.A., Pascual M., `Kéfi S`. 2017.  
 [The multilayer nature of ecological networks.](https://www.nature.com/articles/s41559-017-0101)  
 Nature in Ecology and Evolution. 
 
-`Kéfi, S.`, E. Berlow, E. Wieters, S. Navarrete, O. Petchey, S. Wood, A. Boit, L. Joppa, K. Lafferty, R. Williams, N. Martinez, B. Menge, C. Blanchette, A. Iles, U. Brose. 2012. [More than a meal… Integrating non-feeding interactions into food webs.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2011.01732.x)
+`Kéfi, S.`, E. Berlow, E. Wieters, S. Navarrete, O. Petchey, S. Wood, A. Boit, L. Joppa, K. Lafferty, R. Williams, N. Martinez, B. Menge, C. Blanchette, A. Iles, U. Brose. 2012.  [More than a meal… Integrating non-feeding interactions into food webs.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2011.01732.x)
 Ecology Letters. 
 
 `Kéfi, S.`, V. Guttal, W.A. Brock, S.R. Carpenter, A.M. Ellison, V. Livina, D.A. Seekell, M. Scheffer, E.H. van Nes, V. Dakos. 2014. 
-Early Warning signals of ecological transitions: Methods for spatial patterns.
+[Early Warning signals of ecological transitions: Methods for spatial patterns.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092097) 
 PLoS ONE. 
 
 `Kéfi, S.`, M. Rietkerk, C. L. Alados, Y. Pueyo, A. ElAich, V. Papanastasis, P. C. de Ruiter. 2007. 
