@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on Sonia Kéfi</title>
+    <link>/people/</link>
+    <description>Recent content in People on Sonia Kéfi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benoît Pichon</title>
+      <link>/people/benoit/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/people/benoit/</guid>
+      <description>Project summary The aim of this Ph.D. thesis is to study the feedbacks and interdependencies in ecological systems at different spatial scales and levels of organization, as well as the emergent processes arising from them. Such a cross-scale conceptual framework, integrating the different types of feedbacks as well as the emergent phenomena arising from them, is lacking.&#xA;Project publications B. Pichon, I. Gounand, S. Donnet, S. Kéfi.&#xA;The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities.</description>
+    </item>
+    <item>
+      <title>Ismaël Lajaaiti</title>
+      <link>/people/ismael/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/people/ismael/</guid>
+      <description> Project summary Project publications </description>
+    </item>
+    <item>
+      <title>Guim Aguadé-Gorgorió</title>
+      <link>/people/guim/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/people/guim/</guid>
+      <description>Project summary Global changes are threatening ecosystem functioning and the vital services they provide to human societies, imposing an urgent need to understand how they are coping with and reacting to global change. The complexity of ecosystems, however, makes predicting their fragility a difficult endeavor. This project focuses on a critical scenario in ecosystem degradation: large and abrupt transitions following gradual environmental changes, observed across ecosystems worldwide. Despite important progresses, key knowledge gaps remain in our understanding of the mechanisms underpinning these transitions, making them notoriously difficult to predict.</description>
+    </item>
+    <item>
+      <title>Style your site colors</title>
+      <link>/people/nathan/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/people/nathan/</guid>
+      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.&#xA;Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
+    </item>
+  </channel>
+</rss>

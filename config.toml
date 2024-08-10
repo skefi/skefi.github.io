@@ -120,20 +120,15 @@ enableEmoji = true
     url = "/research/"
     weight = 2
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 3
-  [[menu.header]]
     name = "People"
     title = "People"
-    url = "/people/"
-    weight = 4
+    url = "/blog/"
+    weight = 3
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-    weight = 5
+    weight = 4
     
   # Configure footer   
 

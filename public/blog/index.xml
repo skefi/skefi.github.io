@@ -16,6 +16,13 @@
       <description>Project summary The aim of this Ph.D. thesis is to study the feedbacks and interdependencies in ecological systems at different spatial scales and levels of organization, as well as the emergent processes arising from them. Such a cross-scale conceptual framework, integrating the different types of feedbacks as well as the emergent phenomena arising from them, is lacking.&#xA;Project publications B. Pichon, I. Gounand, S. Donnet, S. Kéfi.&#xA;The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities.</description>
     </item>
     <item>
+      <title>Ismaël Lajaaiti</title>
+      <link>/blog/ismael/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/blog/ismael/</guid>
+      <description>Project summary What makes a collection of interacting species (that is, a community) stable or not to an external perturbation? Part of the complexity of the question lies in what we mean by ‘stable’, and also by ‘a collection of interacting species’. This PhD aims to contribute humbly to answering this question, using a combination of analytical and numerical approaches. This relies on a number of challenges.&#xA;First, stability recovers many distinct meanings in ecology.</description>
+    </item>
+    <item>
       <title>Guim Aguadé-Gorgorió</title>
       <link>/blog/guim/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
@@ -24,45 +31,10 @@
     </item>
     <item>
       <title>Style your site colors</title>
-      <link>/blog/color-themes/</link>
+      <link>/blog/nathan/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/color-themes/</guid>
+      <guid>/blog/nathan/</guid>
       <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.&#xA;Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
-    </item>
-    <item>
-      <title>An evergreen post</title>
-      <link>/blog/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/evergreen/</guid>
-      <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.&#xA;Rmarkdown In .Rmarkdown documents, you can use either&#xA;$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.&#xA;And you can use&#xA;$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:&#xA;$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
-    </item>
-    <item>
-      <title>Using panelsets</title>
-      <link>/blog/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
-    </item>
-    <item>
-      <title>An Rmarkdown post</title>
-      <link>/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/blog/rmarkdown/</guid>
-      <description> Air quality with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
-    </item>
-    <item>
-      <title>CSS Grid Scaffold</title>
-      <link>/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    <item>
-      <title>Built-in Contact Form</title>
-      <link>/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
     </item>
   </channel>
 </rss>
