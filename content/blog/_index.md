@@ -1,16 +1,15 @@
 ---
-title: A Blog That Works
+title: People
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  Here are the people currently working with me.
+author: "" 
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
-show_author_byline: true
-show_post_date: true
+show_author_byline: false
+show_post_date: false
 show_button_links: false
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 

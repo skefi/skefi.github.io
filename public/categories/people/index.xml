@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on Sonia Kéfi</title>
+    <link>/categories/people/</link>
+    <description>Recent content in People on Sonia Kéfi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guim Aguadé-Gorgorió</title>
+      <link>/blog/social/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/blog/social/</guid>
+      <description>Project summary Global changes are threatening ecosystem functioning and the vital services they provide to human societies, imposing an urgent need to understand how they are coping with and reacting to global change. The complexity of ecosystems, however, makes predicting their fragility a difficult endeavor. This project focuses on a critical scenario in ecosystem degradation: large and abrupt transitions following gradual environmental changes, observed across ecosystems worldwide. Despite important progresses, key knowledge gaps remain in our understanding of the mechanisms underpinning these transitions, making them notoriously difficult to predict.</description>
+    </item>
+  </channel>
+</rss>
