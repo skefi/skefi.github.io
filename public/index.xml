@@ -6,7 +6,7 @@
     <description>Recent content on Sonia Kéfi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A first post</title>
@@ -30,6 +30,13 @@
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
     </item>
     <item>
+      <title>Benoît Pichon</title>
+      <link>/blog/benoit/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/blog/benoit/</guid>
+      <description>Project summary The aim of this Ph.D. thesis is to study the feedbacks and interdependencies in ecological systems at different spatial scales and levels of organization, as well as the emergent processes arising from them. Such a cross-scale conceptual framework, integrating the different types of feedbacks as well as the emergent phenomena arising from them, is lacking.&#xA;Project publications B. Pichon, I. Gounand, S. Donnet, S. Kéfi.&#xA;The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities.</description>
+    </item>
+    <item>
       <title>Guim Aguadé-Gorgorió</title>
       <link>/blog/guim/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
@@ -42,13 +49,6 @@
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/blog/color-themes/</guid>
       <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.&#xA;Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
-    </item>
-    <item>
-      <title>Style your site typography</title>
-      <link>/blog/benoit/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/benoit/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.&#xA;Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content &amp;#x2764;&amp;#xfe0f;!</description>
     </item>
     <item>
       <title>An evergreen post</title>
@@ -132,7 +132,7 @@
       <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publications/</guid>
-      <description>See here for a full and updated list of publications.&#xA;Selected publications Kéfi, S., A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre.&#xA;Self-organization as a mechanism of resilience in dryland ecosystems.&#xA;Proceedings of the National Academy of Sciences. 2024.&#xA;G. Aguadé‐Gorgorió, J. Arnoldi, M. Barbier, S. Kéfi.&#xA;A taxonomy of multiple stable states in complex ecological communities.. Ecology Letters. 2024.&#xA;Kéfi, S.</description>
+      <description>See here for a full and updated list of publications.&#xA;Selected publications Kéfi, S., A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre.&#xA;Self-organization as a mechanism of resilience in dryland ecosystems.&#xA;Proceedings of the National Academy of Sciences. 2024.&#xA;G. Aguadé‐Gorgorió, J. Arnoldi, M. Barbier, S. Kéfi.&#xA;A taxonomy of multiple stable states in complex ecological communities..&#xA;Ecology Letters. 2024.&#xA;Kéfi, S.</description>
     </item>
     <item>
       <title>Uncovering the role of the diversity of interaction types in nature</title>
