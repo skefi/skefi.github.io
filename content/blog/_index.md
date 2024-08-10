@@ -1,7 +1,7 @@
 ---
 title: People
 description: |
-  Here are the people currently working with me.
+  Ph.D. students and post-docs currently working with me in Montpellier.
 author: "" 
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only

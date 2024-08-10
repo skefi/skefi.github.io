@@ -6,15 +6,7 @@
     <description>Recent content in Theme Features on Sonia Kéfi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/theme-features/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Style your site colors</title>
-      <link>/blog/nathan/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/nathan/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.&#xA;Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
-    </item>
     <item>
       <title>Identifying early warning signals of catastrophic shifts in ecosystems</title>
       <link>/research/ews/</link>

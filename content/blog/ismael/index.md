@@ -1,6 +1,6 @@
 ---
 title: "Ismaël Lajaaiti"
-subtitle: "Species contributions to ecological stability"
+subtitle: "Species contributions to ecological stability."
 excerpt: "Ph.D. student"
 date: 2022-09-01
 author: " "
@@ -8,7 +8,7 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- evergreen
+- Team members
 ---
 
 ## Project summary
@@ -18,7 +18,7 @@ First, stability recovers many distinct meanings in ecology. Therefore, the stab
 Second, formal representations of ecological communities are often incomplete, as they may omit key interactions or species that shape the community. For example, plant-pollinator studies often overlook the impact of herbivory on plants, despite evidence of its effect on community stability. Similarly, food web studies frequently neglect non-trophic interactions (that is, all interaction types but trophic), even though these interactions are known to influence community stability. Hence, this PhD seek to restore these overlooked elements and elucidate the mechanisms by which they operate on community stability.  
 Last, ecological communities themselves can vary greatly. A grassland plant community competing for resources is vastly different from an aquatic food web in terms of species composition and the structure of their interactions. This observation begs the question of whether there are general mechanisms underlying community stability that apply across diverse community types. This undoubtedly represents the most challenging issue, fraught with uncertainties.
 
-## Project publications
+## Ph.D. publications
 
 I. Lajaaiti, I. Bonnici, S. Kéfi, H. Mayall, A. Danet, A.P. Beckerman, T. Malpas, E. Delmas. 2024.  
 [EcologicalNetworksDynamics. jl: A Julia package to simulate the temporal dynamics of complex ecological networks](https://www.biorxiv.org/content/10.1101/2024.03.20.585899v1.abstract).  

@@ -6,8 +6,15 @@
     <description>Recent content on Sonia Kéfi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nathan Humbert</title>
+      <link>/blog/nathan/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/blog/nathan/</guid>
+      <description>Project summary What makes a collection of interacting species (that is, a community) stable or not to an external perturbation? Part of the complexity of the question lies in what we mean by ‘stable’, and also by ‘a collection of interacting species’. This PhD aims to contribute humbly to answering this question, using a combination of analytical and numerical approaches. This relies on a number of challenges.&#xA;First, stability recovers many distinct meanings in ecology.</description>
+    </item>
     <item>
       <title>Benoît Pichon</title>
       <link>/blog/benoit/</link>
@@ -16,25 +23,18 @@
       <description>Project summary The aim of this Ph.D. thesis is to study the feedbacks and interdependencies in ecological systems at different spatial scales and levels of organization, as well as the emergent processes arising from them. Such a cross-scale conceptual framework, integrating the different types of feedbacks as well as the emergent phenomena arising from them, is lacking.&#xA;Project publications B. Pichon, I. Gounand, S. Donnet, S. Kéfi.&#xA;The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities.</description>
     </item>
     <item>
+      <title>Guim Aguadé-Gorgorió</title>
+      <link>/blog/guim/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/blog/guim/</guid>
+      <description>Project summary Global changes are threatening ecosystem functioning and the vital services they provide to human societies, imposing an urgent need to understand how they are coping with and reacting to global change. The complexity of ecosystems, however, makes predicting their fragility a difficult endeavor. This project focuses on a critical scenario in ecosystem degradation: large and abrupt transitions following gradual environmental changes, observed across ecosystems worldwide. Despite important progresses, key knowledge gaps remain in our understanding of the mechanisms underpinning these transitions, making them notoriously difficult to predict.</description>
+    </item>
+    <item>
       <title>Ismaël Lajaaiti</title>
       <link>/blog/ismael/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/blog/ismael/</guid>
       <description>Project summary What makes a collection of interacting species (that is, a community) stable or not to an external perturbation? Part of the complexity of the question lies in what we mean by ‘stable’, and also by ‘a collection of interacting species’. This PhD aims to contribute humbly to answering this question, using a combination of analytical and numerical approaches. This relies on a number of challenges.&#xA;First, stability recovers many distinct meanings in ecology.</description>
-    </item>
-    <item>
-      <title>Guim Aguadé-Gorgorió</title>
-      <link>/blog/guim/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/guim/</guid>
-      <description>Project summary Global changes are threatening ecosystem functioning and the vital services they provide to human societies, imposing an urgent need to understand how they are coping with and reacting to global change. The complexity of ecosystems, however, makes predicting their fragility a difficult endeavor. This project focuses on a critical scenario in ecosystem degradation: large and abrupt transitions following gradual environmental changes, observed across ecosystems worldwide. Despite important progresses, key knowledge gaps remain in our understanding of the mechanisms underpinning these transitions, making them notoriously difficult to predict.</description>
-    </item>
-    <item>
-      <title>Style your site colors</title>
-      <link>/blog/nathan/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/nathan/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.&#xA;Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
     </item>
     <item>
       <title></title>

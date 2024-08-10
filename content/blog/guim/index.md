@@ -2,7 +2,7 @@
 title: "Guim Aguadé-Gorgorió"
 subtitle: "FRAGILEPRINTS: Identifying fingerprints of fragility in complex ecosystems."
 excerpt: "Marie Sklodowska post-doctoral fellow"
-date: 2021-01-27
+date: 2022-09-01
 author: " "
 draft: false
 tags:
