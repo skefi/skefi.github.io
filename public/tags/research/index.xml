@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Sonia Kéfi</title>
+    <link>/tags/research/</link>
+    <description>Recent content in Research on Sonia Kéfi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stability</title>
+      <link>/project/stability/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/project/stability/</guid>
+      <description>Some ecosystems are known to respond to gradual changes in an abrupt, unexpected and often irreversible manner – what researchers refer to as ‘catastrophic shifts’. How do such dramatic responses emerge at the scale of whole ecosystems?&#xA;While we have a good understanding of how ecosystem shifts can emerge in simple models, it is still puzzling to figure out how networks of diverse interactions between various species can determine the stability and resilience of entire ecosystems.</description>
+    </item>
+    <item>
+      <title>Spatial patterns</title>
+      <link>/project/space/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/space/</guid>
+      <description>In most drylands, vegetation is typically not homogeneously spread in space but gathered in patches of vegetation separated by areas of bare ground. What are the mechanisms that explain the emergence of these characteristic patterns? Can this spatial patterning could provide indicators, or `early warning signals’, of the approaching ecosystem shifts.</description>
+    </item>
+    <item>
+      <title>Indicators of resilience</title>
+      <link>/project/ews/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/ews/</guid>
+      <description>With the current global change, it is becoming increasingly important for us to be able to anticipate shifts in ecological communities. Shifts are often responsible for large, long-lasting changes and can result in dramatic ecological and economic consequences. Are there early warning signs that an ecosystem is loosing resilience?&#xA;Generic indicators, that can be quantified on the temporal and spatial dynamics of ecosystems, have been identified in the literature. In addition, for terrestrial ecosystems, it has been hypothesized that vegetation patchiness could be used as a signature of imminent transitions in ecosystems.</description>
+    </item>
+    <item>
+      <title>Ecological networks</title>
+      <link>/project/networks/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <guid>/project/networks/</guid>
+      <description>In ecological communities, interactions between species form complex networks that mediate their response to perturbations. So far, ecological network studies have typically focused on one (or a few) interaction types at a time, but data and models of webs including different interaction types simultaneously have recently become available. How and when does the diversity of interactions matter for the dynamics and resilience of ecological systems? My recent research aims at analyzing ecological networks including different types of interactions.</description>
+    </item>
+    <item>
+      <title>Facilitation</title>
+      <link>/project/facilitation/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/facilitation/</guid>
+      <description>In harsh environments, individuals can modify their habitat and make it more hospitable for themselves and/or others by relieving the environmental stress. Although evidence on the importance of such positive interactions is abundant in a wide range of ecosystems, they are largely ignored by current models in ecology. Including positive interactions into ecological theory may be key to understanding population and community processes in physically stressful habitats.&#xA;Studies already showed that positive interactions in the form of habitat amelioration can have profound effects on the spatial distribution of organisms, on their abundance, and on ecosystem resilience.</description>
+    </item>
+  </channel>
+</rss>

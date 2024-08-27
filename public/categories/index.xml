@@ -16,23 +16,30 @@
       <description></description>
     </item>
     <item>
+      <title>Projects</title>
+      <link>/categories/projects/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/categories/projects/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Package</title>
       <link>/categories/package/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/categories/package/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
       <link>/categories/r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/categories/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Features</title>
       <link>/categories/theme-features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/categories/theme-features/</guid>
       <description></description>
     </item>

@@ -32,6 +32,45 @@
     <loc>/tags/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/projects/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/research/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/stability/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/space/</loc>
+    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/ews/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/networks/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/facilitation/</loc>
+    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo-site/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/jengle/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/package/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/r/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/theme-features/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/about/header/</loc>
   </url><url>
     <loc>/about/sidebar/</loc>
@@ -40,27 +79,19 @@
   </url><url>
     <loc>/about/</loc>
   </url><url>
-    <loc>/tags/hugo-site/</loc>
-  </url><url>
     <loc>/research/ews/</loc>
   </url><url>
     <loc>/research/facilitation/</loc>
   </url><url>
     <loc>/license/</loc>
   </url><url>
-    <loc>/categories/package/</loc>
-  </url><url>
     <loc>/old_publications/</loc>
   </url><url>
     <loc>/publications/</loc>
   </url><url>
-    <loc>/categories/r/</loc>
-  </url><url>
     <loc>/research/</loc>
   </url><url>
     <loc>/series/</loc>
-  </url><url>
-    <loc>/categories/theme-features/</loc>
   </url><url>
     <loc>/research/diversity/</loc>
   </url>

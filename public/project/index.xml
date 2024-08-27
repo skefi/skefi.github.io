@@ -1,33 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on Sonia Kéfi</title>
-    <link>//localhost:7380/project/</link>
-    <description>Recent content in People on Sonia Kéfi</description>
+    <title>Research projects on Sonia Kéfi</title>
+    <link>//localhost:4321/project/</link>
+    <description>Recent content in Research projects on Sonia Kéfi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:7380/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tachyons for Style</title>
-      <link>//localhost:7380/project/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:7380/project/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+      <title>Stability</title>
+      <link>//localhost:4321/project/stability/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/stability/</guid>
+      <description>Some ecosystems are known to respond to gradual changes in an abrupt, unexpected and often irreversible manner – what researchers refer to as ‘catastrophic shifts’. How do such dramatic responses emerge at the scale of whole ecosystems?&#xA;While we have a good understanding of how ecosystem shifts can emerge in simple models, it is still puzzling to figure out how networks of diverse interactions between various species can determine the stability and resilience of entire ecosystems.</description>
     </item>
     <item>
-      <title>Palmer Penguins</title>
-      <link>//localhost:7380/project/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:7380/project/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
+      <title>Spatial patterns</title>
+      <link>//localhost:4321/project/space/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/space/</guid>
+      <description>In most drylands, vegetation is typically not homogeneously spread in space but gathered in patches of vegetation separated by areas of bare ground. What are the mechanisms that explain the emergence of these characteristic patterns? Can this spatial patterning could provide indicators, or `early warning signals’, of approaching ecosystem shifts?</description>
     </item>
     <item>
-      <title>Bakeoff</title>
-      <link>//localhost:7380/project/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:7380/project/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
+      <title>Indicators of resilience</title>
+      <link>//localhost:4321/project/ews/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/ews/</guid>
+      <description>With the current global change, it is becoming increasingly important for us to be able to anticipate shifts in ecological communities. Shifts are often responsible for large, long-lasting changes and can result in dramatic ecological and economic consequences. Are there early warning signs that an ecosystem is loosing resilience?&#xA;Generic indicators, that can be quantified on the temporal and spatial dynamics of ecosystems, have been identified in the literature. In addition, for terrestrial ecosystems, it has been hypothesized that vegetation patchiness could be used as a signature of imminent transitions in ecosystems.</description>
+    </item>
+    <item>
+      <title>Ecological networks</title>
+      <link>//localhost:4321/project/networks/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/networks/</guid>
+      <description>In ecological communities, interactions between species form complex networks that mediate their response to perturbations. So far, ecological network studies have typically focused on one (or a few) interaction types at a time, but data and models of webs including different interaction types simultaneously have recently become available. How and when does the diversity of interactions matter for the dynamics and resilience of ecological systems? My recent research aims at analyzing ecological networks including different types of interactions.</description>
+    </item>
+    <item>
+      <title>Facilitation</title>
+      <link>//localhost:4321/project/facilitation/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/facilitation/</guid>
+      <description>In harsh environments, individuals can modify their habitat and make it more hospitable for themselves and/or others by relieving the environmental stress. Although evidence on the importance of such positive interactions is abundant in a wide range of ecosystems, they are largely ignored by current models in ecology. Including positive interactions into ecological theory may be key to understanding population and community processes in physically stressful habitats.&#xA;Studies already showed that positive interactions in the form of habitat amelioration can have profound effects on the spatial distribution of organisms, on their abundance, and on ecosystem resilience.</description>
+    </item>
+    <item>
+      <title>JENGLE</title>
+      <link>//localhost:4321/project/jengle/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/jengle/</guid>
+      <description>Outreach project aiming at sensitizing children to the issues of biodiversity and its response to global changes by insisting on the importance of taking species interactions into account, i.e. looking at ecological systems as networks of interactions.&#xA;See here for more information on the dedicated webpage of the project.</description>
     </item>
   </channel>
 </rss>

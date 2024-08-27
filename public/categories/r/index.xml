@@ -6,7 +6,15 @@
     <description>Recent content in R on Sonia Kéfi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JENGLE</title>
+      <link>/project/jengle/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/project/jengle/</guid>
+      <description>Outreach project aiming at sensitizing children to the issues of biodiversity and its response to global changes by insisting on the importance of taking species interactions into account, i.e. looking at ecological systems as networks of interactions.&#xA;See here for more information on the dedicated webpage of the project.</description>
+    </item>
     <item>
       <title>Identifying early warning signals of catastrophic shifts in ecosystems</title>
       <link>/research/ews/</link>
