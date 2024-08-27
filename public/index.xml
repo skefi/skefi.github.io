@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sonia Kéfi</title>
-    <link>//localhost:4321/</link>
+    <link>/</link>
     <description>Recent content on Sonia Kéfi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nathan Humbert</title>
-      <link>//localhost:4321/blog/nathan/</link>
+      <link>/blog/nathan/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/nathan/</guid>
+      <guid>/blog/nathan/</guid>
       <description>Project summary What makes a collection of interacting species (that is, a community) stable or not to an external perturbation? Part of the complexity of the question lies in what we mean by ‘stable’, and also by ‘a collection of interacting species’. This PhD aims to contribute humbly to answering this question, using a combination of analytical and numerical approaches. This relies on a number of challenges.&#xA;First, stability recovers many distinct meanings in ecology.</description>
     </item>
     <item>
       <title>Benoît Pichon</title>
-      <link>//localhost:4321/blog/benoit/</link>
+      <link>/blog/benoit/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/benoit/</guid>
+      <guid>/blog/benoit/</guid>
       <description>Project summary The aim of this Ph.D. thesis is to study the feedbacks and interdependencies in ecological systems at different spatial scales and levels of organization, as well as the emergent processes arising from them. Such a cross-scale conceptual framework, integrating the different types of feedbacks as well as the emergent phenomena arising from them, is lacking.&#xA;Project publications B. Pichon, I. Gounand, S. Donnet, S. Kéfi.&#xA;The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities.</description>
     </item>
     <item>
       <title>Guim Aguadé-Gorgorió</title>
-      <link>//localhost:4321/blog/guim/</link>
+      <link>/blog/guim/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/guim/</guid>
+      <guid>/blog/guim/</guid>
       <description>Project summary Global changes are threatening ecosystem functioning and the vital services they provide to human societies, imposing an urgent need to understand how they are coping with and reacting to global change. The complexity of ecosystems, however, makes predicting their fragility a difficult endeavor. This project focuses on a critical scenario in ecosystem degradation: large and abrupt transitions following gradual environmental changes, observed across ecosystems worldwide. Despite important progresses, key knowledge gaps remain in our understanding of the mechanisms underpinning these transitions, making them notoriously difficult to predict.</description>
     </item>
     <item>
       <title>Ismaël Lajaaiti</title>
-      <link>//localhost:4321/blog/ismael/</link>
+      <link>/blog/ismael/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/ismael/</guid>
+      <guid>/blog/ismael/</guid>
       <description>Project summary What makes a collection of interacting species (that is, a community) stable or not to an external perturbation? Part of the complexity of the question lies in what we mean by ‘stable’, and also by ‘a collection of interacting species’. This PhD aims to contribute humbly to answering this question, using a combination of analytical and numerical approaches. This relies on a number of challenges.&#xA;First, stability recovers many distinct meanings in ecology.</description>
     </item>
     <item>
       <title>Stability</title>
-      <link>//localhost:4321/project/stability/</link>
+      <link>/project/stability/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/stability/</guid>
+      <guid>/project/stability/</guid>
       <description>Some ecosystems are known to respond to gradual changes in an abrupt, unexpected and often irreversible manner – what researchers refer to as ‘catastrophic shifts’. How do such dramatic responses emerge at the scale of whole ecosystems?&#xA;While we have a good understanding of how ecosystem shifts can emerge in simple models, it is still puzzling to figure out how networks of diverse interactions between various species can determine the stability and resilience of entire ecosystems.</description>
     </item>
     <item>
       <title>Spatial patterns</title>
-      <link>//localhost:4321/project/space/</link>
+      <link>/project/space/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/space/</guid>
+      <guid>/project/space/</guid>
       <description>In most drylands, vegetation is typically not homogeneously spread in space but gathered in patches of vegetation separated by areas of bare ground. What are the mechanisms that explain the emergence of these characteristic patterns? Can this spatial patterning could provide indicators, or `early warning signals’, of approaching ecosystem shifts?</description>
     </item>
     <item>
       <title>Indicators of resilience</title>
-      <link>//localhost:4321/project/ews/</link>
+      <link>/project/ews/</link>
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/ews/</guid>
+      <guid>/project/ews/</guid>
       <description>With the current global change, it is becoming increasingly important for us to be able to anticipate shifts in ecological communities. Shifts are often responsible for large, long-lasting changes and can result in dramatic ecological and economic consequences. Are there early warning signs that an ecosystem is loosing resilience?&#xA;Generic indicators, that can be quantified on the temporal and spatial dynamics of ecosystems, have been identified in the literature. In addition, for terrestrial ecosystems, it has been hypothesized that vegetation patchiness could be used as a signature of imminent transitions in ecosystems.</description>
     </item>
     <item>
       <title>Ecological networks</title>
-      <link>//localhost:4321/project/networks/</link>
+      <link>/project/networks/</link>
       <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/networks/</guid>
+      <guid>/project/networks/</guid>
       <description>In ecological communities, interactions between species form complex networks that mediate their response to perturbations. So far, ecological network studies have typically focused on one (or a few) interaction types at a time, but data and models of webs including different interaction types simultaneously have recently become available. How and when does the diversity of interactions matter for the dynamics and resilience of ecological systems? My recent research aims at analyzing ecological networks including different types of interactions.</description>
     </item>
     <item>
       <title>Facilitation</title>
-      <link>//localhost:4321/project/facilitation/</link>
+      <link>/project/facilitation/</link>
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/facilitation/</guid>
+      <guid>/project/facilitation/</guid>
       <description>In harsh environments, individuals can modify their habitat and make it more hospitable for themselves and/or others by relieving the environmental stress. Although evidence on the importance of such positive interactions is abundant in a wide range of ecosystems, they are largely ignored by current models in ecology. Including positive interactions into ecological theory may be key to understanding population and community processes in physically stressful habitats.&#xA;Studies already showed that positive interactions in the form of habitat amelioration can have profound effects on the spatial distribution of organisms, on their abundance, and on ecosystem resilience.</description>
     </item>
     <item>
       <title>JENGLE</title>
-      <link>//localhost:4321/project/jengle/</link>
+      <link>/project/jengle/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/jengle/</guid>
+      <guid>/project/jengle/</guid>
       <description>Outreach project aiming at sensitizing children to the issues of biodiversity and its response to global changes by insisting on the importance of taking species interactions into account, i.e. looking at ecological systems as networks of interactions.&#xA;See here for more information on the dedicated webpage of the project.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/about/header/</link>
+      <link>/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/header/</guid>
+      <guid>/about/header/</guid>
       <description> </description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/about/sidebar/</link>
+      <link>/about/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/sidebar/</guid>
+      <guid>/about/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
       <title> About me </title>
-      <link>//localhost:4321/about/main/</link>
+      <link>/about/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/main/</guid>
+      <guid>/about/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
       <title>Identifying early warning signals of catastrophic shifts in ecosystems</title>
-      <link>//localhost:4321/research/ews/</link>
+      <link>/research/ews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/research/ews/</guid>
+      <guid>/research/ews/</guid>
       <description>With the current global change, it is becoming increasingly important for us to be able to anticipate shifts in ecological communities. Shifts are often responsible for large, long-lasting changes and can result in dramatic ecological and economic consequences. Are there early warning signs that an ecosystem is loosing resilience?&#xA;Generic indicators, that can be quantified on the temporal and spatial dynamics of ecosystems, have been identified in the literature. In addition, for terrestrial ecosystems, it has been hypothesized that vegetation patchiness could be used as a signature of imminent transitions in ecosystems.</description>
     </item>
     <item>
       <title>Investigating the role of facilitation for ecosystem dynamics and resilience</title>
-      <link>//localhost:4321/research/facilitation/</link>
+      <link>/research/facilitation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/research/facilitation/</guid>
+      <guid>/research/facilitation/</guid>
       <description>In harsh environments, individuals can modify their habitat and make it more hospitable for themselves and/or others by relieving the environmental stress. Although evidence on the importance of such positive interactions is accumulating in a wide range of ecosystems, they are largely ignored by current models in ecology. Including positive interactions into ecological theory may be key to understanding population and community processes in physically stressful habitats. Studies already showed that positive interactions in the form of habitat amelioration can have profound effects on the spatial distribution of organisms, on their abundance, and on ecosystem resilience.</description>
     </item>
     <item>
       <title>License</title>
-      <link>//localhost:4321/license/</link>
+      <link>/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/license/</guid>
+      <guid>/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>//localhost:4321/publications/</link>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/publications/</guid>
+      <guid>/publications/</guid>
       <description>See here for a full and updated list of publications.&#xA;Selected publications Kéfi, S., A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre.&#xA;Self-organization as a mechanism of resilience in dryland ecosystems.&#xA;Proceedings of the National Academy of Sciences. 2024.&#xA;G. Aguadé‐Gorgorió, J. Arnoldi, M. Barbier, S. Kéfi.&#xA;A taxonomy of multiple stable states in complex ecological communities..&#xA;Ecology Letters. 2024.&#xA;Kéfi, S.</description>
     </item>
     <item>
       <title>Uncovering the role of the diversity of interaction types in nature</title>
-      <link>//localhost:4321/research/diversity/</link>
+      <link>/research/diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/research/diversity/</guid>
+      <guid>/research/diversity/</guid>
       <description>In ecological communities, interactions between species form complex networks that mediate their response to perturbations. So far, ecological network studies have typically focused on one (or a few) interaction types at a time, but data and models of webs including different interaction types simultaneously have recently become available. How and when does the diversity of interactions matter for the dynamics and resilience of ecological systems? My recent research aims at analyzing ecological networks including different types of interactions.</description>
     </item>
   </channel>
