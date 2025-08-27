@@ -47,6 +47,33 @@ Nature. 2007.
 
 > See [here](https://scholar.google.nl/citations?hl=fr&user=JcRmX4EAAAAJ) for an updated list.
 
+
+### 2025
+
+U. Brose, M.R. Hirt, R. Ryser, B. Rosenbaum, E. Berti, B. Gauzens, A.M. Hein, S. Pawar, K. Schmidt, K. Wootton, S. Kéfi. 2025. 
+[Embedding information flows within ecological networks](https://www.nature.com/articles/s41559-025-02670-2) 
+Nature Ecology & Evolution. 9: 547–558 
+
+G. Aguadé‐Gorgorió, I. Lajaaiti, J. Arnoldi, S. Kéfi. 2025. 
+[Unpacking sublinear growth: diversity, stability and coexistence](https://doi.org/10.1111/oik.10980)  
+Oikos. 2025: e10980 
+
+D. Dylewsky, S. Kéfi, M. Anand, C.T. Bauch. 2025. 
+[Neural models for prediction of spatially patterned phase transitions: methods and challenges](https://doi.org/10.1007/s12080-025-00615-w)  
+Theoretical Ecology. 18, 21  
+
+Y. Zhao, S. Kéfi, E. Guirado, M. Berdugo, D.J. Eldridge, N. Gross, Y. Le Bagousse‐Pinguet, H. Saiz, S. Asensio, V. Ochoa, B. Gozalo, J. Martínez‐Valderrama, C. Plaza, E. Valencia, F.T. Maestre. 2025. 
+[The relationship between grazing pressure and environmental factors drives vegetation fragmentation across global drylands](https://doi.org/10.1111/geb.70098)  
+Global Ecology and Biogeography. 34(8): e70098  
+
+B. Pichon, S. Kéfi, I. Gounand, N. Gross, Y. Le Bagousse‐Pinguet, J. Guerber, D. Eldridge, E. Valencia, C. Plaza, J. Martínez‐Valderrama, H. Saiz, V. Ochoa, B. Gozalo, E. Guirado, M. García‐Gómez, J.J. Gaitán, S. Asensio, B. Josefina Mendoza, S. Donnet, F.T. Maestre. 2025. 
+[Grazing modulates the multiscale spatial structure of dryland vegetation](https://doi.org/10.1111/gcb.70345) 
+Global Change Biology. 31(7): e70345 
+
+I. Lajaaiti, I. Bonnici, S. Kéfi, H. Mayall, A. Danet, A.P. Beckerman, T. Malpas, E. Delmas. 2025. 
+[EcologicalNetworksDynamics.jl: A Julia package to simulate the temporal dynamics of complex ecological networks](https://doi.org/10.1111/2041-210X.14497) 
+Methods in Ecology and Evolution. 16(3): 520-529 
+
 ### 2024
 
 S. Kéfi, A. Génin, A. Garcia-Mayor, E. Guirado, J.S. Cabral, M. Berdugo, J. Guerber, R. Solé, F.T. Maestre. 2024.  
@@ -70,7 +97,7 @@ G. Aguadé-Gorgorió, S. Kéfi. 2024.
 Journal of Physics: Complexity. 5: 025022
 
 M. Sánchez-Pinillos, V. Dakos, S. Kéfi. 2024.  
-[Ecological dynamic regimes: A key concept for assessing ecological resilience](https://www.sciencedirect.com/science/article/pii/S0006320723005104). 
+[Ecological dynamic regimes: A key concept for assessing ecological resilience](https://www.sciencedirect.com/science/article/pii/S0006320723005104).  
 Biological Conservation. 289: 110409
 
 B. Pichon, I. Gounand, S. Donnet, S. Kéfi. 2024.   
@@ -93,7 +120,7 @@ B. Pichon, S. Kéfi, N. Loeuille, I. Lajaaiti, I. Gounand. 2024.
 Ecography. e07167
 
 I. Lajaaiti, S. Kéfi, J.F. Arnoldi. 2024.  
-[How biotic interactions structure species’ responses to perturbations](https://doi.org/10.1098/rspb.2024.0930). 
+[How biotic interactions structure species’ responses to perturbations](https://doi.org/10.1098/rspb.2024.0930).  
 Proceedings of the Royal Society B. 291(2032): 20240930
 
 V. Dakos, C.A. Boulton, J.E. Buxton, J.F. Abrams, D.I. Armstrong McKay, S. Bathiany, L. Blaschke, N. Boers, D. Dylewsky, C. López-Martínez, I. Parry, P. Ritchie, B. van der Bolt, L. van der Laan, E. Weinans, S. Kéfi. 2024.    

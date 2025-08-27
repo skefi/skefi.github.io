@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Style on Sonia Kéfi</title>
-    <link>/tags/style/</link>
+    <link>//localhost:4321/tags/style/</link>
     <description>Recent content in Style on Sonia Kéfi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/style/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/style/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benoît Pichon</title>
-      <link>/blog/benoit/</link>
+      <link>//localhost:4321/blog/benoit/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/blog/benoit/</guid>
+      <guid>//localhost:4321/blog/benoit/</guid>
       <description>Project summary The aim of this Ph.D. thesis is to study the feedbacks and interdependencies in ecological systems at different spatial scales and levels of organization, as well as the emergent processes arising from them. Such a cross-scale conceptual framework, integrating the different types of feedbacks as well as the emergent phenomena arising from them, is lacking.&#xA;Project publications B. Pichon, I. Gounand, S. Donnet, S. Kéfi.&#xA;The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities.</description>
     </item>
     <item>
       <title>Guim Aguadé-Gorgorió</title>
-      <link>/blog/guim/</link>
+      <link>//localhost:4321/blog/guim/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/blog/guim/</guid>
+      <guid>//localhost:4321/blog/guim/</guid>
       <description>Project summary Global changes are threatening ecosystem functioning and the vital services they provide to human societies, imposing an urgent need to understand how they are coping with and reacting to global change. The complexity of ecosystems, however, makes predicting their fragility a difficult endeavor. This project focuses on a critical scenario in ecosystem degradation: large and abrupt transitions following gradual environmental changes, observed across ecosystems worldwide. Despite important progresses, key knowledge gaps remain in our understanding of the mechanisms underpinning these transitions, making them notoriously difficult to predict.</description>
     </item>
   </channel>

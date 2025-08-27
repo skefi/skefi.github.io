@@ -2,97 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:4321/categories/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/nathan/</loc>
+    <loc>//localhost:4321/blog/nathan/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>//localhost:4321/blog/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:4321/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/team-members/</loc>
+    <loc>//localhost:4321/categories/team-members/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/benoit/</loc>
+    <loc>//localhost:4321/blog/benoit/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/guim/</loc>
+    <loc>//localhost:4321/blog/guim/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/ismael/</loc>
+    <loc>//localhost:4321/blog/ismael/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/style/</loc>
+    <loc>//localhost:4321/tags/style/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:4321/tags/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/projects/</loc>
+    <loc>//localhost:4321/categories/projects/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/research/</loc>
+    <loc>//localhost:4321/tags/research/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>//localhost:4321/project/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/stability/</loc>
+    <loc>//localhost:4321/project/stability/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/space/</loc>
+    <loc>//localhost:4321/project/space/</loc>
     <lastmod>2020-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/ews/</loc>
+    <loc>//localhost:4321/project/ews/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/networks/</loc>
+    <loc>//localhost:4321/project/networks/</loc>
     <lastmod>2018-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/facilitation/</loc>
+    <loc>//localhost:4321/project/facilitation/</loc>
     <lastmod>2017-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo-site/</loc>
+    <loc>//localhost:4321/tags/hugo-site/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/jengle/</loc>
+    <loc>//localhost:4321/project/jengle/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/package/</loc>
+    <loc>//localhost:4321/categories/package/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
+    <loc>//localhost:4321/categories/r/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/theme-features/</loc>
+    <loc>//localhost:4321/categories/theme-features/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/header/</loc>
+    <loc>//localhost:4321/about/header/</loc>
   </url><url>
-    <loc>/about/sidebar/</loc>
+    <loc>//localhost:4321/about/sidebar/</loc>
   </url><url>
-    <loc>/about/main/</loc>
+    <loc>//localhost:4321/about/main/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:4321/about/</loc>
   </url><url>
-    <loc>/research/ews/</loc>
+    <loc>//localhost:4321/oldmembers/</loc>
   </url><url>
-    <loc>/research/facilitation/</loc>
+    <loc>//localhost:4321/research/ews/</loc>
   </url><url>
-    <loc>/license/</loc>
+    <loc>//localhost:4321/research/facilitation/</loc>
   </url><url>
-    <loc>/old_publications/</loc>
+    <loc>//localhost:4321/license/</loc>
   </url><url>
-    <loc>/publications/</loc>
+    <loc>//localhost:4321/old_publications/</loc>
   </url><url>
-    <loc>/research/</loc>
+    <loc>//localhost:4321/publications/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>//localhost:4321/research/</loc>
   </url><url>
-    <loc>/research/diversity/</loc>
+    <loc>//localhost:4321/series/</loc>
+  </url><url>
+    <loc>//localhost:4321/research/diversity/</loc>
   </url>
 </urlset>
